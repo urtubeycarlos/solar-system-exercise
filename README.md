@@ -1,1 +1,1 @@
-# solar-system-exercise
+# planets-excersise
